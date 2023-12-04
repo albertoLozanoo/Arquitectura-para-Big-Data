@@ -1,0 +1,10 @@
+Insert - v1: 0.084 segundos
+Insert - v2: 0.059 segundos
+Tarea 1 - v1: 0.020 segundos
+Tarea 1 - v2: 0.018 segundos
+Tarea 2.1 - v1: 0.027 segundos
+Tarea 2.1 - v2: 0.010 segundos
+Tarea 2.2 - v1: 0.025 segundos
+Tarea 2.2 - v2: 0.014 segundos
+Tarea 3 - v1: 0.018 segundos
+Tarea 3 - v2: 0.027 segundos
